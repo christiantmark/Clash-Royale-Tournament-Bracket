@@ -1,0 +1,170 @@
+Name: Giant Sparky Deck
+Giant
+Sparky
+Wizard
+Bats
+Spear Goblins
+Skeleton Army
+Zap
+Poison
+END_OF_DECK
+Name: Golem Beatdown Deck
+Golem
+Lumberjack
+Night Witch
+Mega Minion
+Goblins
+Elixir Collector
+Zap
+Lightning
+END_OF_DECK
+Name: P.E.K.K.A Bridge Spam
+P.E.K.K.A
+Bandit
+Minions
+Battle Ram
+Electro Wizard
+Royal Ghost
+Zap
+Poison
+END_OF_DECK
+Name: Lavaloon Deck
+Lavahound
+Balloon
+Mega Minion
+Minions
+Guards
+Tombstone
+Arrows
+Lightning
+END_OF_DECK
+Name: Log Bait Deck
+Princess
+Goblin Barrel
+Goblin Gang
+Valkyrie
+Ice Spirit
+Inferno Tower
+Log
+Rocket
+END_OF_DECK
+Name: 2.6 Hog Cycle
+Hog Rider
+Musketeer
+Ice Golem
+Ice Spirit
+Skeletons
+Cannon
+Log
+Fireball
+END_OF_DECK
+Name: 3 Musketeers 1.0
+3 Musketeers
+Minion Hoard
+Goblin Gang
+Ice Golem
+Miner
+Battle Ram
+Elixir Collector
+Zap
+END_OF_DECK
+Name: X-Bow Control
+X-Bow
+Tesla
+Ice Golem
+Fire Spirits
+Archers
+Skeletons
+Log
+Fireball
+END_OF_DECK
+Name: Grave Robbers
+Graveyard
+Rascals
+Mega Minion
+Skeletons
+Ice Golem
+Goblin Hut
+Log
+Poison
+END_OF_DECK
+Name: Kings and Sons
+Prince
+Dark Prince
+Royal Ghost
+Magic Archer
+Bats
+Zappies
+Barbarian Barrel
+Fireball
+END_OF_DECK
+Name: Mortar 3.0
+Mortar
+Knight
+Archers
+Inferno Dragon
+Ice Spirit
+Log
+Arrows
+Fireball
+END_OF_DECK
+Name: Mega Balloon
+Mega Knight
+Balloon
+Miner
+Hunter
+Mega Minion
+Knight
+Ice Spirit
+Zap
+END_OF_DECK
+Name: Goblin Army
+Bats
+Goblin Gang
+Goblin Giant
+Minion Hoard
+Miner
+Sparky
+Spear Goblins
+Zap
+END_OF_DECK
+Name: Hogging the Mortar
+Bats
+Goblin Gang
+Hog Rider
+Log
+Mortar
+Rascals
+Spear Goblins
+Zap
+END_OF_DECK
+Name: Royal Pain
+Barbarian Barrel
+Furnace
+Royal Ghost
+Guards
+Lightning
+Mega Minion
+Royal Giant
+Electro Wizard
+END_OF_DECK
+Name: Cold Dead Hands
+Cannon Cart
+Graveyard
+Ice Golem
+Ice Wizard
+Mega Minion
+Poison
+Tombstone
+Tornado
+END_OF_DECK
+Name: Mega Hogs
+Arrows
+Bats
+Fireball
+Inferno Dragon
+Mega Knight
+Royal Hogs
+Spear Goblins
+Zappies
+END_OF_DECK
